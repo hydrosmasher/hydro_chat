@@ -2,7 +2,7 @@
 A customized chatbot for competitive swimmers — built to generate swimming and dryland workouts, analyze training performance, and provide expert advice on injuries and recovery.  
 
 ## 🌊 Features  
-- **Swim Workout Generator:** Structured plans inspired by the "Masters Plan" for different strokes and intensities.  
+- **Swim Workout Generator:** Structured plans inspired by olympic training programs for different strokes and intensities.  
 - **Dryland Workout Generator:** Strength, core, and mobility training plans for swimmers.  
 - **Pace Analysis:** Evaluates lap times and offers performance feedback.  
 - **Injury Advice:** Tips on recovery and prevention of common swimming injuries.  
